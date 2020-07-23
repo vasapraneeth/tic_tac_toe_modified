@@ -1,0 +1,30 @@
+td{
+  background-color: silver;
+  height: 140px;
+  width: 140px;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 70px;
+}
+
+body{
+  background-color: #4e9dbf;
+}
+
+#ins{
+  background-color: #a2d4f2;
+}
+
+p{
+  font-size: 1.5em;
+}
+
+.jumbotron{
+  background-color: #a2d4f2;
+}
+
+#made{
+  font-size: 20px;
+  text-align: right;
+  color: #800404;
+}
